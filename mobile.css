@@ -1,0 +1,537 @@
+@media(max-width:414px) {
+    .body {
+        /* Smartphone */
+        position: relative;
+        width: 414px;
+        height: 4431px;
+    }
+
+    .container {
+        /* Rectangle 9 */
+        position: absolute;
+        width: 414px;
+        height: 896px;
+        left: 0px;
+        top: 0px;
+
+        background: linear-gradient(180deg, #6F7DFB 0%, #26308C 100%);
+    }
+
+
+    .navbar h1 {
+        left: 38px;
+        top: 6px;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .con01-left h1 {
+
+        position: absolute;
+        width: 457px;
+        height: 126px;
+        left: 38px;
+        top: 105px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+
+    }
+
+    .con01-left p {
+        width: 335px;
+        height: 167px;
+        left: 33px;
+        top: 223px;
+        font-size: 19px;
+        line-height: 183%;
+    }
+
+    .con01-left a {
+        width: 92px;
+        font-size: 19px;
+        height: 19px;
+        left: 68px;
+        top: 418px;
+    }
+
+    .con01-left img {
+        width: 37px;
+        height: 24px;
+        left: 18%;
+        right: 20%;
+        top: 48%;
+    }
+
+    .con01-right img {
+        width: 328px;
+        height: 407px;
+        top: 493px;
+        left: 42%;
+    }
+
+    .students-enrolled {
+        position: absolute;
+        width: 173px;
+        height: 70px;
+        left: 27px;
+        top: 651px;
+    }
+
+    .students-enrolled h3 {
+        left: 68px;
+        top: -30px;
+        font-size: 33px;
+    }
+
+    .students-enrolled p {
+        left: 40px;
+        top: 27px;
+    }
+
+    .overall-rating {
+        position: absolute;
+        width: 169px;
+        height: 66px;
+        left: 21px;
+        top: 757px;
+    }
+
+    .overall-rating h3 {
+        left: 68px;
+        top: -30px;
+        font-size: 33px;
+    }
+
+    .overall-rating p {
+        left: 40px;
+        top: 27px;
+    }
+
+    .overall-rating h3 {
+        left: 56px;
+        top: -30px;
+        font-size: 31px;
+    }
+
+    .overall-rating img {
+        position: absolute;
+        width: 56px;
+        height: 37px;
+        left: 111px;
+        top: 3px;
+    }
+
+    .container02 {
+        position: absolute;
+        width: 350px;
+        height: 780px;
+        left: 32px;
+        top: 996px;
+    
+    }
+
+    .con02-right h2 {
+        width: 635px;
+        height: 57px;
+        left: -594px;
+        top: -33px;
+        font-size: 32px;
+    }
+
+    .con02-right p {
+        width: 303px;
+        height: 128px;
+        left: -597px;
+        top: 27px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 155%;
+    }
+
+
+    .container02 .square {
+        height: 532px;
+        left: 101px;
+        top: 194px;
+    }
+
+
+    .card10-bg {
+        position: absolute;
+        width: 350px;
+        height: 102px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .card10-bg h1 {
+        position: absolute;
+        width: 279px;
+        height: 0px;
+        left: 24px;
+        top: 2px;
+        font-size: 20px;
+    }
+
+
+    .card1 {
+        position: absolute;
+        width: 350px;
+        height: 197px;
+        left: 1px;
+        top: 226px;
+    }
+
+    .card1 img {
+        position: absolute;
+        left: 223px;
+        top: 81px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .card2 {
+        position: absolute;
+        width: 350px;
+        height: 197px;
+        left: 1px;
+        top: 472px;
+    }
+
+    .card20-bg {
+        position: absolute;
+        width: 350px;
+        height: 102px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .card2 img {
+        position: absolute;
+        left: 223px;
+        top: 81px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .con02-right button {
+        height: 53px;
+        left: -430px;
+        top: 725px;
+        padding: 12px 33px;
+    }
+
+
+    .course {
+        position: absolute;
+        width: 416px;
+        height: 1151px;
+        left: 0px;
+        top: 1876px;
+        background: linear-gradient(180deg, #6F7DFB 0%, #26308C 100%);
+    }
+
+    .course h1 {
+
+        height: 38px;
+        top: 0px;
+        left: -195px;
+
+    }
+
+
+
+    .background-white {
+        width: 413px;
+        height: 360px;
+        margin-left: 1px;
+        margin-top: 189px;
+        background: #FFFFFF;
+        border-radius: 24px;
+    }
+
+    .background-white img {
+        position: static;
+        width: 350px;
+        height: 257px;
+        background: url(.jpg);
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.25));
+        border-radius: 24px;
+        margin-top: -4px;
+        margin-left: 34px;
+    }
+
+    .background-white h2 {
+        font-family: Raleway;
+        position: absolute;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 118%;
+        margin-left: 38px;
+        margin-top: -3px;
+        width: 289px;
+        color: #023047;
+    }
+
+    .clock img {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 303px;
+        margin-top: 34px;
+    }
+
+    .background-white h3 {
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 150%;
+        margin-left: 333px;
+        margin-top: 27px;
+        color: #023047;
+        position: absolute;
+    }
+
+    .background-white .border {
+        position: static;
+        width: 359px;
+        height: 8px;
+        background: #023047;
+        border-radius: 24px;
+        margin-top: 94px;
+        margin-left: 34px;
+    }
+
+
+
+
+    .background-white2 {
+        width: 413px;
+        height: 360px;
+        margin-left: 1px;
+        margin-top: 55px;
+        background: #FFFFFF;
+        border-radius: 24px;
+    }
+
+    .background-white2 img {
+        position: static;
+        width: 350px;
+        height: 257px;
+        background: url(.jpg);
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.25));
+        border-radius: 24px;
+        margin-top: -4px;
+        margin-left: 34px;
+    }
+
+    .background-white2 h2 {
+        font-family: Raleway;
+        position: absolute;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 118%;
+        margin-left: 30px;
+        margin-top: -3px;
+        width: 434px;
+        color: #023047;
+    }
+
+    .clock2 img {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 317px;
+        margin-top: 74px;
+    }
+
+    .background-white2 h3 {
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 150%;
+        margin-left: 343px;
+        margin-top: 68px;
+        color: #023047;
+        position: absolute;
+    }
+
+    .background-white2 .border2 {
+        position: static;
+        width: 359px;
+        height: 8px;
+        background: #023047;
+        border-radius: 24px;
+        margin-top: 137px;
+        margin-left: 34px;
+    }
+
+    .course button {
+        width: 173px;
+        height: 55px;
+        left: 221px;
+        top: 1045px;
+    }
+
+    .app {
+        position: absolute;
+        width: 350px;
+        height: 321px;
+        left: 32px;
+        top: 3127px;
+        
+    }
+
+    .app h1 {
+        left: 75px;
+        top: -23px;
+        font-size: 36px;
+    }
+
+    .app p {
+        left: 31px;
+        top: 35px;
+        font-size: 17px;
+        line-height: 157%;
+        width: 303px;
+    }
+
+    .app-btn1 {
+        width: 250px;
+        height: 39px;
+        left: 17px;
+        top: 131px;
+    }
+
+    .app-btn2 {
+        height: 35px;
+        left: 16px;
+        top: 246px;
+    }
+
+    .app-btn2 h2 {
+        font-size: 29px;
+        line-height: 200%;
+    }
+
+
+    .footer {
+        position: absolute;
+        width: 414px;
+        height: 883px;
+        left: 0px;
+        top: 3548px;
+
+        background: #070917;
+    }
+
+    .links {
+        position: absolute;
+        width: 156px;
+        height: 205px;
+        left: 129px;
+        top: 85px;
+        font-size: 52px;
+        margin-bottom: 103px;
+        line-height: 103%;
+    }
+
+    .links2 h2 {
+        position: absolute;
+        width: 183px;
+        height: 40px;
+        left: -57px;
+        top: 6px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 23px;
+        line-height: 93%;
+        text-align: center;
+        color: #DA722C;
+    }
+
+    .links2 {
+        /* position: absolute; */
+        width: 179px;
+        height: 238px;
+        left: 139px;
+        top: 261px;
+        font-size: 57px;
+    }
+
+
+
+    .links h2 {
+        position: absolute;
+        width: 183px;
+        height: 36px;
+        left: -33px;
+        top: -6px;
+        font-size: 21px;
+        line-height: 100%;
+    }
+
+    .contacts {
+        position: absolute;
+        width: 545px;
+        height: 187px;
+        left: 117px;
+        top: 498px;
+    }
+
+    .footer h1 {
+        position: absolute;
+        width: 367px;
+        height: 32px;
+        left: 32px;
+        top: 774px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 200%;
+        color: #FFFFFF;
+    }
+
+    .contacts h2 {
+        font-size: 24px;
+    }
+    .contacts a {
+        height: 32px;
+        left: 15px;
+        font-size: 21px;
+    }
+    .contacts form input {
+        position: absolute;
+        width: 337px;
+        height: 39px;
+        left: -82px;
+        top: 118px;
+        background: #FFFFFF;
+        border-radius: 8px;
+    }
+
+    .contacts form button {
+        position: absolute;
+        width: 147px;
+        height: 46px;
+        left: 16px;
+        top: 183px;
+        background: #023047;
+        border-radius: 8px;
+        color: white;
+    }
+
+
+}

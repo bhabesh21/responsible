@@ -1,0 +1,512 @@
+@media(max-width:834px) {
+    .body {
+        /* Tablet */
+        position: relative;
+        width: 834px;
+        height: 4427px;
+        background: #FFFFFF;
+    }
+
+    .container {
+        /* Rectangle 9 */
+        position: absolute;
+        width: 834px;
+        height: 1194px;
+        left: 0px;
+        top: 0px;
+
+        background: linear-gradient(180deg, #6F7DFB 0%, #26308C 100%);
+    }
+
+
+    .navbar {
+        width: 834px;
+        float: left;
+        height: 115px;
+    }
+
+    .navbar h1 {
+        position: absolute;
+        width: 69px;
+        height: 48.59px;
+        left: 95px;
+        top: 10px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 35px;
+        line-height: 47px;
+
+        color: #FFFFFF;
+
+    }
+
+    .right {
+        position: absolute;
+        width: 656px;
+        height: 90px;
+        left: 139px;
+        top: 19px;
+
+    }
+
+    .navbar ul {
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 91px;
+        margin-top: 20px;
+    }
+
+    .navbar ul li {
+        list-style: none;
+        margin-left: 62px;
+        margin-top: 10px;
+        font-size: 23px;
+        display: flex;
+
+    }
+
+    ul li {
+        margin: -31px;
+    }
+
+    .navbar ul li a {
+        text-decoration: none;
+    }
+
+    .navbar button {
+        position: absolute;
+        width: 138px;
+        height: 50px;
+        left: 487px;
+        top: 20px;
+        color: white;
+        background: #023047;
+        border-radius: 24px;
+    }
+
+    /* Navbar End */
+
+    .con01-left h1 {
+        top: 168px;
+    }
+
+    .con01-left p {
+        width: 510px;
+        top: 315px;
+    }
+
+    .con01-left a {
+        width: 84px;
+        font-size: 19px;
+        height: 28px;
+        left: 105px;
+        top: 461px;
+    }
+
+    .con01-left img {
+        width: 37px;
+        height: 21px;
+        left: 13%;
+        right: 20%;
+        top: 40%;
+    }
+
+    .con01-right img {
+        width: 389px;
+        height: 699px;
+        top: 499px;
+        left: 51%;
+    }
+
+    .students-enrolled {
+        position: absolute;
+        width: 194px;
+        height: 83px;
+        left: 209px;
+        top: 715px;
+    }
+
+    .students-enrolled h3 {
+        left: 68px;
+        top: -33px;
+    }
+
+    .students-enrolled p {
+        left: 40px;
+        top: 34px;
+    }
+
+    .overall-rating {
+        left: 210px;
+        top: 864px;
+    }
+
+
+    .container02 {
+
+        position: absolute;
+        width: 634px;
+        height: 760px;
+        left: 100px;
+        top: 1294px;
+    }
+
+    .card10-bg {
+        position: absolute;
+        width: 631px;
+        height: 91px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .card10-bg h1 {
+        position: absolute;
+        width: 572px;
+        height: 0px;
+        left: 12px;
+        top: 7px;
+    }
+
+    .card1 {
+        position: absolute;
+        width: 631px;
+        height: 210px;
+        left: 0px;
+        top: 166px;
+    }
+
+    .card1 img {
+        position: absolute;
+        left: 485px;
+        top: 79px;
+    }
+
+
+    .card20-bg {
+        position: absolute;
+        width: 631px;
+        height: 91px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .card20-bg h1 {
+        position: absolute;
+        width: 572px;
+        height: 0px;
+        left: 12px;
+        top: 7px;
+    }
+
+    .card2 {
+        position: absolute;
+        width: 631px;
+        height: 210px;
+        left: 0px;
+        top: 415px;
+    }
+
+    .card2 img {
+        position: absolute;
+        left: 485px;
+        top: 79px;
+    }
+
+    .container02 .square {
+        height: 546px;
+        left: 101px;
+        top: 129px;
+    }
+
+    .con02-right h2 {
+        position: absolute;
+        width: 584px;
+        height: 57px;
+        left: -598px;
+        top: -40px;
+        font-size: 40px;
+    }
+
+    .con02-right p {
+        width: 516px;
+        height: 128px;
+        left: -597px;
+        top: 27px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 155%;
+    }
+
+    .con02-right button {
+        height: 59px;
+        left: -138px;
+        top: 700px;
+    }
+
+    .course {
+        position: absolute;
+        width: 832px;
+        height: 1223px;
+        left: 2px;
+        top: 2154px;
+
+        background: linear-gradient(180deg, #6F7DFB 0%, #26308C 100%);
+    }
+
+    .course h1 {
+        position: absolute;
+        width: 315px;
+        height: 92px;
+        top: 0px;
+        font-size: 58px;
+        margin-left: 253px;
+
+    }
+
+    .background-white {
+        /* position: absolute; */
+        width: 632px;
+        height: 373px;
+        margin-left: 98px;
+        margin-top: 158px;
+        background: #FFFFFF;
+        border-radius: 24px;
+    }
+
+    .background-white img {
+        position: static;
+        width: 575px;
+        height: 260px;
+        background: url(.jpg);
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.25));
+        border-radius: 24px;
+        margin-top: -4px;
+        margin-left: 29px;
+    }
+
+    .clock img {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 510px;
+        margin-top: -30px;
+    }
+
+    .background-white h3 {
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 150%;
+        margin-left: 546px;
+        margin-top: -37px;
+        color: #023047;
+        position: absolute;
+    }
+
+    .background-white .border {
+        position: static;
+        width: 564px;
+        height: 8px;
+        background: #023047;
+        border-radius: 24px;
+        margin-top: 54px;
+        margin-left: 34px;
+    }
+
+
+
+    .background-white2 {
+        width: 632px;
+        height: 373px;
+        margin-left: 98px;
+        margin-top: 105px;
+        background: #FFFFFF;
+        border-radius: 24px;
+    }
+
+    .background-white2 img {
+        position: static;
+        width: 575px;
+        height: 260px;
+        background: url(.jpg);
+        filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.25));
+        border-radius: 24px;
+        margin-top: -4px;
+        margin-left: 29px;
+    }
+
+    .clock2 img {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 510px;
+        margin-top: -30px;
+    }
+
+    .background-white2 h3 {
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 150%;
+        margin-left: 546px;
+        margin-top: -37px;
+        color: #023047;
+        position: absolute;
+    }
+
+    .background-white2 .border2 {
+        position: static;
+        width: 564px;
+        height: 8px;
+        background: #023047;
+        border-radius: 24px;
+        margin-top: 54px;
+        margin-left: 34px;
+    }
+
+
+    .course button {
+
+        width: 179px;
+        height: 55px;
+        left: 551px;
+        top: 1084px;
+
+    }
+
+    .app {
+        /* App Section */
+        position: absolute;
+        width: 680px;
+        height: 212px;
+        left: 78px;
+        top: 3477px;
+    
+    }
+
+    .app h1 {
+        position: absolute;
+        width: 716px;
+        height: -178px;
+        left: 197px;
+        top: -37px;
+        font-size: 52px;
+    }
+
+    .app p {
+        left: 97px;
+        top: 53px;
+    }
+
+    .app-btn1 {
+        width: 250px;
+        height: 48px;
+        left: 17px;
+        top: 121px;
+    }
+
+.app-btn2 {
+    height: 50px;
+    left: 340px;
+    top: 120px;
+}
+
+
+    .footer {
+        position: absolute;
+        width: 834px;
+        height: 638px;
+        left: 0px;
+        top: 3791px;
+    }
+
+    .links {
+        position: absolute;
+        width: 255px;
+        height: 275px;
+        left: 105px;
+        top: 81px;
+        font-size: 52px;
+        margin-bottom: 103px;
+    }
+
+    .links2 {
+        /* position: absolute; */
+        width: 179px;
+        height: 238px;
+        left: 427px;
+        top: 67px;
+        font-size: 57px;
+    }
+
+
+    .links h2 {
+        position: absolute;
+        width: 183px;
+        height: 36px;
+        left: -22px;
+        top: -20px;
+        font-size: 26px;
+        line-height: 100%;
+    }
+    .contacts {
+        position: absolute;
+        width: 545px;
+        height: 187px;
+        left: 86px;
+        top: 361px;
+    }
+
+    .links2 h2 {
+        position: absolute;
+        width: 183px;
+        height: 36px;
+        left: -64px;
+        top: -15px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 100%;
+        text-align: center;
+        color: #DA722C;
+    }
+
+
+
+    .contacts form input {
+        position: absolute;
+        width: 535px;
+        height: 39px;
+        left: -5px;
+        top: 127px;
+        background: #FFFFFF;
+        border-radius: 8px;
+    }
+
+    .footer h1 {
+        position: absolute;
+        width: 367px;
+        height: 32px;
+        left: 88px;
+        top: 527px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 200%;
+        color: #FFFFFF;
+    }
+
+
+
+}
+
+
